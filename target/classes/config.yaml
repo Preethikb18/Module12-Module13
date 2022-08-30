@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+sfdc:
+  username: "preethi.ischool@gmail.com"
+  password: "sannidhi18"
+  token: "TbSkNLRFsohElSa3cgcoEsfIN"
+
+
+File:
+  Dir: "/Users/anilkumar/Downloads/APDevFundamentals4.4_studentFiles_SP_27jun2022/resources"
+
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"

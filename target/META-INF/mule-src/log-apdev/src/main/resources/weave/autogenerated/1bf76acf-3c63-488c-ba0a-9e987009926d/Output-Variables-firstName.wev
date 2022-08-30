@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_1bf76acf_3c63_488c_ba0a_9e987009926d_Output_Variables_firstName = Any
+
